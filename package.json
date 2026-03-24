@@ -1,0 +1,16 @@
+{
+  "name": "task-runner",
+  "version": "1.0.0",
+  "description": "Configurable task automation runner",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "task",
+    "runner"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
